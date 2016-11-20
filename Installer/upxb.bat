@@ -1,0 +1,1 @@
+upx -9 ..\Release\DhrMatchingUrlService.exe

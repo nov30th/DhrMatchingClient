@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\DhrMatchingUrlService.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\DhrMatchingUrlService.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ICO\Icon_100.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ICO\Icon_101.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ICO\Icon_102.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ICO\Icon_103.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ICO\Public.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ICO\Upload Arrow.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ICO\Box ico.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Stop.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="OK.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="WARNING.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DhrMatchingUrlService.aps" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DhrMatchingUrlService.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DhrMatchingUrlServiceDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QzjWinpcap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QzjHttpPost.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QzjConfLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DhrMatchingUrlService.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DhrMatchingUrlServiceDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QzjWinpcap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QzjHttpPost.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QzjConfLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DhrMatchingUrlService.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="res\DhrMatchingUrlService.manifest" />
+  </ItemGroup>
+</Project>

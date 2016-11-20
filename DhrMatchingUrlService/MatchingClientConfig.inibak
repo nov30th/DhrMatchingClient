@@ -1,0 +1,9 @@
+[Server]
+PostAddress=http://matchengine.directhr.net/DataReceiver/SaveSearchResult.ashx
+FilterAddress=http://matchengine.directhr.net/matching.txt
+[Version]
+LocalFileVersion=1.1
+[Login]
+Username=
+[DefaultNetWorkAdapter]
+AdapterName=\Device\NPF_{05618031-FC07-4658-801E-D6A843B53B8E}

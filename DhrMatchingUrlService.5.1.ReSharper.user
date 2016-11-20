@@ -1,0 +1,70 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlService.h" caret="0" fromTop="0" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:stdafx.h" caret="0" fromTop="0" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:Resource.h" caret="0" fromTop="0" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:targetver.h" caret="0" fromTop="0" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:stdafx.cpp" caret="0" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:httpget3.cpp/l:C!?Users?Administrator?Desktop?httpget3.cpp" caret="1743" fromTop="20" />
+      <File id="d:Miscellaneous Files/f:httpget4.cpp/l:C!?Users?Administrator?Desktop?httpget4.cpp" caret="145" fromTop="6" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlService.cpp" caret="3522" fromTop="26" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="11574" fromTop="259" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjWinpcap.cpp" caret="0" fromTop="0" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.h" caret="0" fromTop="0" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjWinpcap.h" caret="238" fromTop="6" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjHttpPost.h" caret="498" fromTop="15" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjHttpPost.cpp" caret="327" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjWinpcap.cpp" caret="8528" fromTop="33" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="8123" fromTop="19" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="2" fromTop="0" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlService.cpp" caret="116" fromTop="3" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="116" fromTop="3" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlService.cpp" caret="4090" fromTop="8" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlService.cpp" caret="3480" fromTop="9" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlService.cpp" caret="3480" fromTop="4" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="612" fromTop="8" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="6093" fromTop="17" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="10749" fromTop="11" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="10437" fromTop="5" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="12123" fromTop="10" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjWinpcap.cpp" caret="14920" fromTop="14" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlService.cpp" caret="1453" fromTop="8" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="4799" fromTop="26" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="7822" fromTop="14" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlService.cpp" caret="3578" fromTop="19" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="11755" fromTop="9" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="11917" fromTop="26" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="12151" fromTop="53" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlService.cpp" caret="1527" fromTop="15" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:DhrMatchingUrlServiceDlg.cpp" caret="11807" fromTop="259" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjHttpPost.cpp" caret="240" fromTop="7" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjHttpPost.cpp" caret="146" fromTop="3" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjHttpPost.h" caret="0" fromTop="0" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjHttpPost.h" caret="238" fromTop="6" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjWinpcap.h" caret="0" fromTop="0" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjWinpcap.h" caret="238" fromTop="6" />
+      <File id="58DB44BF-745E-4C8B-884B-86EBE6BFC34A/f:QzjHttpPost.h" caret="424" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
